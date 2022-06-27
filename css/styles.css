@@ -110,6 +110,7 @@ main {
 #contacto{
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 a {
